@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.last {
+  color: #00b4d8ff;
+}
+/* .list .lister:hover {
+  border: 1px cyan solid;
+  color: aqua;
+} */
